@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "About"
+    url: https://east-vanilla-b0d.notion.site/2c89ee16dd374b189642710d52a0b28c
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
